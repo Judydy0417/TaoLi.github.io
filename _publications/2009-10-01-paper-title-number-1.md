@@ -3,9 +3,8 @@ permalink: /
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - Publications/
+  - _publications/
 ---
-
 Publications
 ======
 1. Meng Li, Tao Li, Lili Yu. 2024. <a href="http://example.com">Retail Platform Analytics: Practice, Literature, and Future Research.</a> Production and Operations Management. Forthcoming.
