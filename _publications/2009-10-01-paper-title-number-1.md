@@ -3,7 +3,7 @@ permalink: /
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - TaoLi.github.io/publications/
+  - TaoLi.github.io/
 ---
 
 Publications
