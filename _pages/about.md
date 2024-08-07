@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 Tao Li is the director of MS Program in Business Analytics and an associate professor of Information Systems & Analytics in the Leavey School of Business at Santa Clara University. He joined the Business School in Fall 2012 as an assistant professor after graduating with his Ph.D. from The University of Texas at Dallas.
 
 Professor Li’s research interests include sharing economy, crowdfunding, strategic sourcing, supply chain coordination, operations-marketing interface, sustainable operations management, and behavioral operations management. His scholarship has appeared in leading academic journals such as Production and Operations Management, Manufacturing & Service Operations Management, European Journal of Operational Research. His scholarship has been supported by the Santa Clara University Research Grant and the Leavey Research Grant. He is the recipient of the Leavey School of Business Extraordinary Research Award multiple times.<div/>
