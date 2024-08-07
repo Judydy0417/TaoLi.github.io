@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,39 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Teaching Experience
 ======
+<h4>Director of MS Program in Business Analytics</h4>
+<li>Santa Clara University Leavey School of Business, 2012-present</li>
+<h4>Associate Professor</h4>
+<li>Santa Clara University Leavey School of Business</li>
+<h4>Instructor</h4>
+<li>The University of Texas at Dallas,2011-2012</li>
 
-Heading 2
+Industry Experience
 ======
+Project Advisor
+<li>Teladoc Health</li>
+<li>Intuitive Surgical Ltd</li>
+<li>Amazon Web Services</li>
+<li>Rubrik, Inc.
+<li>Cloudera, Inc. 
+<li>Adobe, Inc. 
+<li>Nuveen, A TIAA Company 
+<li>Atollogy, Inc.
 
-Heading 3
+
+Professional Activities
 ======
+Senior Editor
+<li>Production and Operations Management, 2017 – Present</li>
+Guest Associate Editor 
+<li>Naval Research Logistics, 2018 - present</li>
+Associate Editor 
+<li>Transportation Research Part E: Logistics and Transportation
+Review, 2019 – Present</li>
+Editorial Review Board
+  <li>Transportation Research Part E, Logistics and
+Transportation Review, 2019 – Present</li>
+
