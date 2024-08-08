@@ -1,11 +1,9 @@
 ---
 permalink: /portfolio/
 author_profile: true
+title: Awards
 collection: portfolio
 ---
-
-Awards
-======
 <ul>
   <li>Member of INFORMS, MSOM, POMS, DSI, CSAMSE, Phi Kappa Phi, Beta Gamma Sigma</li>
   <li>Tao Li (PI). SCU Leavey Research Grant ($3,750) 2023–2025</li>
