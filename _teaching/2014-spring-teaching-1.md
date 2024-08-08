@@ -4,20 +4,20 @@ permalink: /teaching/
 author_profile: true
 collection: teaching
 ---
-</div>   
+<div>   
     <ul>
         <li>
-            <h3>Director of MS Program in Business Analytics</h3>, Santa Clara University Leavey School of Business, 2012-present</span>
+          <strong>Director of MS Program in Business Analytics</strong>, Santa Clara University Leavey School of Business, 2012-present
         </li>
         <li>
-            <h3>Associate Professor</h3>, Santa Clara University Leavey School of Business</span>
+          <strong>Associate Professor</strong>, Santa Clara University Leavey School of Business
         </li>
         <li>
-            <h3>Instructor</h3>
-            <span>, The University of Texas at Dallas, 2011-2012</span>
+          <strong>Instructor</strong>, The University of Texas at Dallas, 2011-2012
         </li>
     </ul>
 </div>
+
 </div>
     <h2>Industry Experience</h2>
     <h3>Project Advisor</h3>
@@ -34,22 +34,18 @@ collection: teaching
 </div>
 </div>
     <h2>Professional Activities</h2>
-    <ul>
-        <li>
-            <h3>Senior Editor</h3>
-            <span>, Production and Operations Management, 2017 – Present</span>
-        </li>
-        <li>
-            <h3>Guest Associate Editor</h3>
-            <span>, Naval Research Logistics, 2018 - Present</span>
-        </li>
-        <li>
-            <h3>Associate Editor</h3>
-            <span>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</span>
-        </li>
-        <li>
-            <h3>Editorial Review Board</h3>
-            <span>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</span>
-        </li>
-    </ul>
+<ul>
+    <li>
+        <strong>Senior Editor</strong>, Production and Operations Management, 2017 – Present
+    </li>
+    <li>
+        <strong>Guest Associate Editor</strong>, Naval Research Logistics, 2018 - Present
+    </li>
+    <li>
+        <strong>Associate Editor</strong>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present
+    </li>
+    <li>
+        <strong>Editorial Review Board</strong>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present
+    </li>
+</ul>
 </div>
