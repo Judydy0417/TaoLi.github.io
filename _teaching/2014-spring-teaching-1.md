@@ -1,10 +1,48 @@
 ---
 permalink: /teaching/
-title: Teaching Experience
+title: "Teaching Experience"
 author_profile: true
 collection: teaching
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2e6da4;
+            margin-top: 30px;
+        }
+        h3 {
+            margin-top: 20px;
+            color: #333;
+        }
+        ul {
+            list-style-type: disc;
+            margin: 10px 0 20px 40px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Professional Profile</h1>
+
+<h2>Teaching Experience</h2>
 <h3>Director of MS Program in Business Analytics</h3>
 <ul>
     <li>Santa Clara University Leavey School of Business, 2012-present</li>
@@ -20,7 +58,7 @@ collection: teaching
     <li>The University of Texas at Dallas, 2011-2012</li>
 </ul>
 
-<h1>Industry Experience</h1>
+<h2>Industry Experience</h2>
 <h3>Project Advisor</h3>
 <ul>
     <li>Teladoc Health</li>
@@ -33,7 +71,7 @@ collection: teaching
     <li>Atollogy, Inc.</li>
 </ul>
 
-<h1>Professional Activities</h1>
+<h2>Professional Activities</h2>
 <h3>Senior Editor</h3>
 <ul>
     <li>Production and Operations Management, 2017 – Present</li>
@@ -53,3 +91,6 @@ collection: teaching
 <ul>
     <li>Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</li>
 </ul>
+
+</body>
+</html>
