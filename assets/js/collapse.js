@@ -1,3 +1,4 @@
+/*
 $(".header").click(function () {
 
     $header = $(this);
@@ -14,3 +15,5 @@ $(".header").click(function () {
     });
 
 });
+*/
+
