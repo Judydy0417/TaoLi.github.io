@@ -1,5 +1,5 @@
 ---
-title: "Professional Profile"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 collection: teaching
@@ -42,7 +42,6 @@ collection: teaching
     </style>
 
 <div class="section">
-    <h2>Teaching Experience</h2>
     <ul>
         <li>
             <h3>Director of MS Program in Business Analytics</h3>
