@@ -1,11 +1,9 @@
 ---
 permalink: /publications/
-title: 
+title: Publications
 author_profile: true
 collection: publications
 ---
-Publications
-======
 1. Meng Li, Tao Li, Lili Yu. 2024. <a href="http://example.com">Retail Platform Analytics: Practice, Literature, and Future Research.</a> Production and Operations Management. Forthcoming.
 2. Jingna Ji, Tao Li*, Lei Yang. 2023. <a href="http://example.com">Pricing and Carbon Emission Reduction </a> Strategies for Vertically
 Differentiated Firms under Cap-and-Trade Regulation.” Transportation Research Part E: Logistics
