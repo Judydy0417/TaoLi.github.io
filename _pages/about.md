@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -50,8 +49,6 @@ redirect_from:
             text-decoration: underline;
         }
     </style>
-</head>
-<body>
 
 <h1>Professional Profile - Tao Li</h1>
 
