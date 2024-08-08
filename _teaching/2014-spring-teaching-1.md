@@ -1,8 +1,8 @@
 ---
-permalink: /teaching/
+layout: page
 title: "Professional Profile"
+permalink: /professional-profile/
 author_profile: true
-collection: teaching
 ---
 
 <html lang="en">
