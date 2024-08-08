@@ -50,8 +50,6 @@ redirect_from:
         }
     </style>
 
-<h1>Professional Profile - Tao Li</h1>
-
 <p>
     Tao Li is the Director of MS Program in Business Analytics and an Associate Professor of Information Systems & Analytics in the 
     <a href="http://example.com">Leavey School of Business at Santa Clara University</a>. He joined the Business School in Fall 2012 
