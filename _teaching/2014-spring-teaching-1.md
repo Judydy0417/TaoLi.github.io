@@ -1,8 +1,9 @@
 ---
-title: "Experience"
-collection: teaching
-type: "Undergraduate course"
+
 permalink: /teaching/
+title: "Experience"
+author_profile: true
+
 ---
 
 
