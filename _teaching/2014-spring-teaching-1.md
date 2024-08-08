@@ -4,52 +4,12 @@ permalink: /teaching/
 author_profile: true
 collection: teaching
 ---
-  <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            border-bottom: 2px solid #333;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #2e6da4;
-            margin-top: 30px;
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 5px;
-        }
-        h3 {
-            margin-top: 20px;
-            color: #333;
-        }
-        h4 {
-            display: inline;
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 10px 0 20px 0;
-        }
-        ul li {
-            margin-bottom: 5px;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-    </style>
-
-<div class="section">
     <ul>
         <li>
-            <h3>Director of MS Program in Business Analytics</h3>
-            <span>, Santa Clara University Leavey School of Business, 2012-present</span>
+            <h3>Director of MS Program in Business Analytics</h3>, Santa Clara University Leavey School of Business, 2012-present</span>
         </li>
         <li>
-            <h3>Associate Professor</h3>
-            <span>, Santa Clara University Leavey School of Business</span>
+            <h3>Associate Professor</h3>, Santa Clara University Leavey School of Business</span>
         </li>
         <li>
             <h3>Instructor</h3>
@@ -58,7 +18,6 @@ collection: teaching
     </ul>
 </div>
 
-<div class="section">
     <h2>Industry Experience</h2>
     <h3>Project Advisor</h3>
     <ul>
@@ -73,7 +32,6 @@ collection: teaching
     </ul>
 </div>
 
-<div class="section">
     <h2>Professional Activities</h2>
     <ul>
         <li>
