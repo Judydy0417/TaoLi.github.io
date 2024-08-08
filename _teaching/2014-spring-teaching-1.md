@@ -11,7 +11,7 @@ collection: teaching
     <li>Santa Clara University Leavey School of Business, 2012-present</li>
 </ul>
 
-<h4>Associate Professor</h4>
+<h3>Associate Professor</h3>
 <ul>
     <li>Santa Clara University Leavey School of Business</li>
 </ul>
