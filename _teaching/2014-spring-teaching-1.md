@@ -4,6 +4,7 @@ permalink: /teaching/
 author_profile: true
 collection: teaching
 ---
+</div>   
     <ul>
         <li>
             <h3>Director of MS Program in Business Analytics</h3>, Santa Clara University Leavey School of Business, 2012-present</span>
@@ -17,7 +18,7 @@ collection: teaching
         </li>
     </ul>
 </div>
-
+</div>
     <h2>Industry Experience</h2>
     <h3>Project Advisor</h3>
     <ul>
@@ -31,7 +32,7 @@ collection: teaching
         <li>Atollogy, Inc., Jan/2019 – Dec/2020</li>
     </ul>
 </div>
-
+</div>
     <h2>Professional Activities</h2>
     <ul>
         <li>
