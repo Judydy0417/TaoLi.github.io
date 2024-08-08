@@ -3,8 +3,7 @@ title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 collection: teaching
----
-<div>   
+---   
     <ul>
         <li>
           <strong>Director of MS Program in Business Analytics</strong>, Santa Clara University Leavey School of Business, 2012-present
@@ -16,9 +15,7 @@ collection: teaching
           <strong>Instructor</strong>, The University of Texas at Dallas, 2011-2012
         </li>
     </ul>
-</div>
-
-</div>
+<div>
     <h2>Industry Experience</h2>
     <strong>Project Advisor</strong>
     <ul>
@@ -32,7 +29,7 @@ collection: teaching
         <li>Atollogy, Inc., Jan/2019 – Dec/2020</li>
     </ul>
 </div>
-</div>
+<div>
     <h2>Professional Activities</h2>
 <ul>
     <li>
