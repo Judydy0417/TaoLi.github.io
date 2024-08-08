@@ -1,4 +1,6 @@
 ---
+permalink: /teaching/
+author_profile: true
 collection: teaching
 ---
 
