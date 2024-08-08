@@ -1,11 +1,10 @@
 ---
 permalink: /teaching/
+title: Teaching Experience
 author_profile: true
 collection: teaching
 ---
 
-
-<h1>Teaching Experience</h1>
 <h3>Director of MS Program in Business Analytics</h3>
 <ul>
     <li>Santa Clara University Leavey School of Business, 2012-present</li>
