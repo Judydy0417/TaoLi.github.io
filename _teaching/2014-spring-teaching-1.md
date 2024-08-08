@@ -2,6 +2,7 @@
 layout: page
 title: "Professional Profile"
 permalink: /teaching/
+collection: teaching
 author_profile: true
 ---
 
