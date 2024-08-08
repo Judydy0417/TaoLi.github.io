@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Professional Profile"
-permalink: /professional-profile/
+permalink: /teaching/
 author_profile: true
 ---
 
