@@ -4,17 +4,15 @@ permalink: /teaching/
 author_profile: true
 collection: teaching
 ---   
-    <ul>
-        <li>
-          <strong>Director of MS Program in Business Analytics</strong>, Santa Clara University Leavey School of Business, 2012-present
-        </li>
-        <li>
-          <strong>Associate Professor</strong>, Santa Clara University Leavey School of Business
-        </li>
-        <li>
-          <strong>Instructor</strong>, The University of Texas at Dallas, 2011-2012
-        </li>
-    </ul>
+<li>
+  <strong>Director of MS Program in Business Analytics</strong>, Santa Clara University Leavey School of Business, 2012-present
+</li>
+<li>
+  <strong>Associate Professor</strong>, Santa Clara University Leavey School of Business
+</li>
+<li>
+  <strong>Instructor</strong>, The University of Texas at Dallas, 2011-2012
+</li>
 <div>
     <h2>Industry Experience</h2>
     <strong>Project Advisor</strong>
