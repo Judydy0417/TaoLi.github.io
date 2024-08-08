@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Professional Profile"
 permalink: /teaching/
 author_profile: true
@@ -46,15 +45,15 @@ collection: teaching
     <h2>Teaching Experience</h2>
     <ul>
         <li>
-            <h4>Director of MS Program in Business Analytics</h4>
+            <h3>Director of MS Program in Business Analytics</h3>
             <span>, Santa Clara University Leavey School of Business, 2012-present</span>
         </li>
         <li>
-            <h4>Associate Professor</h4>
+            <h3>Associate Professor</h3>
             <span>, Santa Clara University Leavey School of Business</span>
         </li>
         <li>
-            <h4>Instructor</h4>
+            <h3>Instructor</h3>
             <span>, The University of Texas at Dallas, 2011-2012</span>
         </li>
     </ul>
@@ -79,19 +78,19 @@ collection: teaching
     <h2>Professional Activities</h2>
     <ul>
         <li>
-            <h4>Senior Editor</h4>
+            <h3>Senior Editor</h3>
             <span>, Production and Operations Management, 2017 – Present</span>
         </li>
         <li>
-            <h4>Guest Associate Editor</h4>
+            <h3>Guest Associate Editor</h3>
             <span>, Naval Research Logistics, 2018 - Present</span>
         </li>
         <li>
-            <h4>Associate Editor</h4>
+            <h3>Associate Editor</h3>
             <span>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</span>
         </li>
         <li>
-            <h4>Editorial Review Board</h4>
+            <h3>Editorial Review Board</h3>
             <span>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</span>
         </li>
     </ul>
