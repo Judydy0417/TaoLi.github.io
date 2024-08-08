@@ -10,4 +10,5 @@ main:
     url: /portfolio/
         
   - title: "Resume"
-    url: /cv/
+    url: /assets/resume.pdf
+    download: true
