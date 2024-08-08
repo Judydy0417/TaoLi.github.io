@@ -20,7 +20,7 @@ collection: teaching
 
 </div>
     <h2>Industry Experience</h2>
-    <h3>Project Advisor</h3>
+    <strong>Project Advisor</strong>
     <ul>
         <li>Teladoc Health, Jan/2023 – Present</li>
         <li>Intuitive Surgical Ltd, Jan/2023 – Present</li>
